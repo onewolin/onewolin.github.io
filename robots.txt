@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://onewolin.github.io/sitemap
+Sitemap: https://onewolin.github.io/app/sitemap
+Sitemap: https://onewolin.github.io/assets/sitemap
+Sitemap: https://onewolin.github.io/css/sitemap
+Sitemap: https://onewolin.github.io/includes/sitemap
+Sitemap: https://onewolin.github.io/item/sitemap
+Sitemap: https://onewolin.github.io/src/sitemap
